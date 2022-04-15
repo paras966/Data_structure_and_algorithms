@@ -33,4 +33,4 @@ print(stock_prices['8_March'])
 class HashTable:
     def __init__(self):
         self.MAX=100
-        self.arr=[none ]
+        self.arr=[None ]
